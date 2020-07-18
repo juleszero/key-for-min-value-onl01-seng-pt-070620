@@ -10,5 +10,6 @@ if number < min_value
   min_key = name
     
   end
+  return min_key
   end
 end
