@@ -8,7 +8,6 @@ hash.each do |name, number|
 if number < min_value
   min_value = number
   min_key = name
-    
   end
   end
   return min_key
